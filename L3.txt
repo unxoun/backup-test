@@ -1,1 +1,2 @@
-ECHO is EDITTED on.
+ECHO is on.
+REMOTE1
