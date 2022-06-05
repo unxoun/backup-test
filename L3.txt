@@ -2,3 +2,8 @@ ECHO is on.
 LOCAL1
 REMOTE2
 REMOTE1
+local2
+local3
+local4
+local5
+
